@@ -47,7 +47,7 @@ long start = System.currentTimeMillis();
      if ( p<c+1)
       {
       
-     Image a = Toolkit.getDefaultToolkit().getImage("udha.png");
+     Image a = Toolkit.getDefaultToolkit().getImage("2(2).png");
       pen.drawImage(a,220,(p)-20,20,40,this);
    this.repaint();
    }
